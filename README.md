@@ -34,4 +34,4 @@ Obtenemos de salida lo siguiente:
 
 ## Conclusiones
 
-En este reto se pudo realizar la conexión a una base de datos y mostrar el resultado de una tabla, se pudo hacer uso de los worklets paint de CSS para poder realizar la consulta a la base una forma más sencilla y rápida.
+En este reto se pudo realizar la conexión a una base de datos y mostrar el resultado de una tabla, se pudo hacer uso de los worklets paint de CSS para poder realizar la consulta a la base y mostrar el resultado en pantalla.
