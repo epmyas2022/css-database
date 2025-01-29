@@ -1,0 +1,15 @@
+{
+  "name": "css-database",
+  "version": "1.0.0",
+  "description": "Reto de CSS",
+  "main": "cssdb.js",
+  "scripts": {
+    "start": "http-server -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

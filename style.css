@@ -1,0 +1,9 @@
+body {
+  color: white;
+  background-color: black;
+}
+#main {
+  --sql-db: SELECT * FROM colors;
+  background: paint(cssdb);
+  height: 100dvh;
+}

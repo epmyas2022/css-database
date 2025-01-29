@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DB connect with css</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body class="flex-center-column">
+    <h1>Example of conect database with css</h1>
+    <div id="main"></div>
+
+    <script>
+      if ("paintWorklet" in CSS) {
+        CSS.paintWorklet.addModule("./cssdb.js");
+      }
+    </script>
+  </body>
+</html>
