@@ -3,7 +3,7 @@
 ## Descripción
 
 Este proyecto es un reto de conexion a una base de datos usando CSS, en el cual se debe realizar una conexión a una base de datos
-de SQLite y mostrar el resultado en una tabla llamada "colors" para poder realizarlo se hara uso de los **worklets paint** de CSS.
+de SQL local y mostrar el resultado en una tabla llamada "colors". Para poder realizarlo se hara uso de los **worklets paint** de CSS.
 
 ## Requerimientos
 
@@ -34,4 +34,4 @@ Obtenemos de salida lo siguiente:
 
 ## Conclusiones
 
-En este reto se pudo realizar la conexión a una base de datos de SQLite y mostrar el resultado en una tabla, se pudo hacer uso de los worklets paint de CSS para poder realizar la tabla de una forma más sencilla y rápida.
+En este reto se pudo realizar la conexión a una base de datos y mostrar el resultado de una tabla, se pudo hacer uso de los worklets paint de CSS para poder realizar la consulta a la base una forma más sencilla y rápida.
